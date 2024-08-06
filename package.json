@@ -1,0 +1,11 @@
+{
+  "name": "metro-wp",
+  "version": "1.0.0",
+  "description": "Metro for WordPress",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
